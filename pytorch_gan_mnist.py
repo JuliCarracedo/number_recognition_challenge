@@ -13,7 +13,7 @@ latent_dim = 100
 num_classes = 10
 image_size = 28*28
 batch_size = 64
-epochs = 10
+epochs = 40
 lr = 0.0002
 
 # Load MNIST dataset
